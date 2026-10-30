@@ -1,0 +1,1 @@
+{"name":"tiktok-auto-unfollow-ultimate","version":"1.1.0","private":true,"scripts":{"test":"node --check tiktok-auto-unfollow.user.js && node --test tests/*.test.cjs"}}
